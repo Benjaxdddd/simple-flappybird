@@ -69,14 +69,6 @@ div#character{
 }
 
 
-
-
-
-
-
-
-
-
 @keyframes block{
     0%{left: 400px;}
     100%{left: -50px;}
